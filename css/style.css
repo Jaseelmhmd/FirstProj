@@ -1,0 +1,23 @@
+#jou,
+#jaseel,
+#hidash {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    color: crimson;
+}
+
+html {
+    background-color: wheat;
+}
+
+.fr {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.sec {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
